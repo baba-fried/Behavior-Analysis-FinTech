@@ -8,7 +8,7 @@ Using SQL, Python for exploratory data analysis (EDA) and Power BI for visualiza
 Banks depend on clear visibility into customer financial behavior to drive lending, deposits, and revenue growth. Excel reporting is fragmented, making it difficult to track key KPIs across demographics, income bands, and engagement levels. This limits the bank’s ability to identify trends, risks, and high-value customer segments. How can we create a unified analytics solution that delivers real-time insights into customer behavior and overall banking performance?
 
 ### Methodology:
-  1.  1.Connected to the MySQL database and extracted the raw banking data into Jupyter Notebook.
+  1. Connected to the MySQL database and extracted the raw banking data into Jupyter Notebook.
   2.    Performed exploratory data analysis (EDA) in Python using pandas, matplotlib, and seaborn to clean, summarize, and understand customer financial behavior.
   3.  Modeled and transformed the processed data for reporting purposes.
   4.    Built an interactive Power BI dashboard to visualize key banking KPIs, segment customer groups, and deliver actionable financial insights.
