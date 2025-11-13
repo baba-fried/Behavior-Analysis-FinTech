@@ -7,11 +7,13 @@ Using SQL, Python for exploratory data analysis (EDA) and Power BI for visualiza
 
 ---
 ### Problem Statement:
+___
 Banks depend on clear visibility into customer financial behavior to drive lending, deposits, and revenue growth. Excel reporting is fragmented, making it difficult to track key KPIs across demographics, income bands, and engagement levels. This limits the bank’s ability to identify trends, risks, and high-value customer segments. How can we create a unified analytics solution that delivers real-time insights into customer behavior and overall banking performance?
 
 
 ---
 ### Methodology:
+___
   1. Connected to the MySQL database and extracted the raw banking data into Jupyter Notebook.
   2.    Performed exploratory data analysis (EDA) in Python using pandas, matplotlib, and seaborn to clean, summarize, and understand customer financial behavior.
   3.  Modeled and transformed the processed data for reporting purposes.
@@ -19,12 +21,14 @@ Banks depend on clear visibility into customer financial behavior to drive lendi
 
 
 ---
-### Visuals - Power BI Dashboard Preview
+### Visuals - Power BI Dashboard Preview:
+___
 ![Dashboard Preview](Images/1.png)
 
 
 ---
-### Skills
+### Skills:
+___
 SQL:
 Basic MySQL database connection and data extraction using mysql-connector-python.
 Power BI:
@@ -35,6 +39,7 @@ Pandas, NumPy, Matplotlib, Seaborn, exploratory data analysis (EDA), descriptive
 
 ---
 ### Results & Business Recommendation:
+___
 The analysis highlighted differences in financial behavior across income bands, nationalities, and engagement levels. High-income customers maintain significantly higher loan and deposit balances, while younger engagement groups contribute less overall value. Additionally, the correlation study showed strong relationships between deposits, savings behavior, and business lending, indicating opportunities for targeted cross-selling.
 The dashboard can provide stakeholders a clear view of key banking KPIs across loans, deposits, savings, and customer engagement. With this visibility, teams can now self-serve insights that previously required manual reporting, reducing ad-hoc analysis time and improving decision-making efficiency.
 
@@ -47,5 +52,6 @@ Based on these findings, I recommend focusing on the following actions to improv
 
 ---
 ### Future Scope
+___
   1. Integrate Predictive Analytics: Add machine learning models to forecast loan defaults, deposit growth, or customer churn using the existing dataset.
   2. Automate Data Pipelines: Replace manual imports with automated ETL workflows so the dashboard updates directly from MySQL on a schedule.
