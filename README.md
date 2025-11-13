@@ -4,8 +4,12 @@ An interactive Power BI dashboard designed to explore customer and financial tre
 ## Executive Summary:
 Using SQL, Python for exploratory data analysis (EDA) and Power BI for visualization, this project analyzes a bank’s customer and transaction data to surface insights around loans, deposits, savings, credit-card usage and customer engagement.
 
+
+
 ### Problem Statement:
 Banks depend on clear visibility into customer financial behavior to drive lending, deposits, and revenue growth. Excel reporting is fragmented, making it difficult to track key KPIs across demographics, income bands, and engagement levels. This limits the bank’s ability to identify trends, risks, and high-value customer segments. How can we create a unified analytics solution that delivers real-time insights into customer behavior and overall banking performance?
+
+
 
 ### Methodology:
   1. Connected to the MySQL database and extracted the raw banking data into Jupyter Notebook.
@@ -14,8 +18,11 @@ Banks depend on clear visibility into customer financial behavior to drive lendi
   4.    Built an interactive Power BI dashboard to visualize key banking KPIs, segment customer groups, and deliver actionable financial insights.
 
 
+
 ### Visuals - Power BI Dashboard Preview
 ![Dashboard Preview](Images/1.png)
+
+
 
 ### Skills
 SQL:
@@ -24,6 +31,8 @@ Power BI:
 DAX measures, calculated columns, data modeling, data cleaning & transformation (categorical mapping, data type fixes), KPI creation, interactive dashboards, slicers, navigation, financial data visualization.
 Python:
 Pandas, NumPy, Matplotlib, Seaborn, exploratory data analysis (EDA), descriptive statistics, correlation analysis, relationship visualization.  
+
+
 
 ### Results & Business Recommendation:
 The analysis highlighted differences in financial behavior across income bands, nationalities, and engagement levels. High-income customers maintain significantly higher loan and deposit balances, while younger engagement groups contribute less overall value. Additionally, the correlation study showed strong relationships between deposits, savings behavior, and business lending, indicating opportunities for targeted cross-selling.
@@ -34,6 +43,8 @@ Based on these findings, I recommend focusing on the following actions to improv
   2.Improve savings and deposit growth by creating targeted campaigns for mid-income groups showing strong positive correlations with deposit behavior.
   3.Leverage nationality-based insights to personalize product offerings for regions demonstrating higher loan uptake or stronger deposit patterns.
   4.Enhance early-engagement strategies to increase value from newer customers, who currently show lower loan and deposit contributions.
+
+
   
 ### Future Scope
   1. Integrate Predictive Analytics: Add machine learning models to forecast loan defaults, deposit growth, or customer churn using the existing dataset.
