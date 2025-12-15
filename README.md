@@ -39,6 +39,7 @@ The analysis highlighted differences in financial behavior across income bands, 
 The dashboard can provide stakeholders a clear view of key banking KPIs across loans, deposits, savings, and customer engagement. With this visibility, teams can now self-serve insights that previously required manual reporting, reducing ad-hoc analysis time and improving decision-making efficiency.
 
 Based on these findings, I recommend focusing on the following actions to improve financial performance:
+ 
   1.Prioritize high-value customer segments by enhancing relationship-based products for high-income and long-engagement clients.
   
   2.Improve savings and deposit growth by creating targeted campaigns for mid-income groups showing strong positive correlations with deposit behavior.
