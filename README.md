@@ -40,13 +40,13 @@ The dashboard can provide stakeholders a clear view of key banking KPIs across l
 
 Based on these findings, I recommend focusing on the following actions to improve financial performance:
  
-  1.Prioritize high-value customer segments by enhancing relationship-based products for high-income and long-engagement clients.
+  1. Prioritize high-value customer segments by enhancing relationship-based products for high-income and long-engagement clients.
   
-  2.Improve savings and deposit growth by creating targeted campaigns for mid-income groups showing strong positive correlations with deposit behavior.
+  2. Improve savings and deposit growth by creating targeted campaigns for mid-income groups showing strong positive correlations with deposit behavior.
   
-  3.Leverage nationality-based insights to personalize product offerings for regions demonstrating higher loan uptake or stronger deposit patterns.
+  3. Leverage nationality-based insights to personalize product offerings for regions demonstrating higher loan uptake or stronger deposit patterns.
   
-  4.Enhance early-engagement strategies to increase value from newer customers, who currently show lower loan and deposit contributions.
+  4. Enhance early-engagement strategies to increase value from newer customers, who currently show lower loan and deposit contributions.
 
 
 ---
