@@ -25,11 +25,11 @@ Banks depend on clear visibility into customer financial behavior to drive lendi
 
 ---
 ### Skills:
-SQL:
+  1. SQL:
 Basic MySQL database connection and data extraction using mysql-connector-python.
-Power BI:
+  2. Power BI:
 DAX measures, calculated columns, data modeling, data cleaning & transformation (categorical mapping, data type fixes), KPI creation, interactive dashboards, slicers, navigation, financial data visualization.
-Python:
+  3. Python:
 Pandas, NumPy, Matplotlib, Seaborn, exploratory data analysis (EDA), descriptive statistics, correlation analysis, relationship visualization.  
 
 
